@@ -1,0 +1,15 @@
+{
+  "name": "traversymedia",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "author": "Hari",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
